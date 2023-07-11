@@ -108,7 +108,28 @@
 
 /* Popular Product section End */
 
+/* Pagination Start */
 
+.pagination {
+    display: flex;
+    margin: 40px;
+    justify-content: center;
+}
+
+/* Pagination End */
+
+/* Footer Section Start */
+
+.footer_section {
+    background-color: rgba(0, 0, 0, 0.477);
+    color: rgba(255, 255, 255, 0.94);
+    text-align: center;
+    padding: 20px;
+    margin-bottom: 20px;
+}
+
+
+/* Footer Section End */
 
 
 
